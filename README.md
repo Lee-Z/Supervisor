@@ -21,4 +21,12 @@ iso文件： http://124.205.69.167/files/4192000003FB0772/mirrors.sohu.com/cento
         # python -V
                 Python 2.7.8
 
+## Supervisor 发布历史
+
+* 3.3.1 (2016-08-02) 最新版
+* 3.0 (2013-07-30)
+* 2.0 (2006-08-30)
+* 1.0.5 (2004-07-29)
+
+[Release History](http://supervisord.org/#release-history)
 
